@@ -1,11 +1,15 @@
 ### Hi! I'm Filip
 
-## Programmer and Graphic designer
-
 [![Website](https://img.shields.io/website?label=filipchmielecki.pl&style=for-the-badge&url=https%3A%2F%2Ffilipchmielecki.pl)](https://filipchmielecki.pl)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ozeppo?color=1DA1F2&label=Follow%20me%20on%20twitter&logo=twitter&style=for-the-badge)](https://twitter.com/ozeppo)
 
-<br />
+
+## Programmer and Graphic designer
+
+- 🌱 Currently learning PHP
+- 🥅 2021 Goals: Finish NestBOT Framework
+
+---
 
 ### Contact me:
 
@@ -14,6 +18,9 @@
 [<img align="left" alt="Filip Chmielecki | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
+<br />
+
+---
 
 ### Languages and Tools I use:
 
