@@ -4,10 +4,12 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/ozeppo?color=1DA1F2&label=Follow%20me%20on%20twitter&logo=twitter&style=for-the-badge)](https://twitter.com/ozeppo)
 
 
-## Programmer and Graphic designer
+## Developer and Marketing Strategist
 
-- 🌱 Currently learning PHP
-- 🥅 2021 Goals: Finish NestBOT Framework
+- 🏢 Actual Job: Freelance marketing / Websites development
+- 🌱 Currently learning: PHP
+- 🎶 Passion: Music production.
+- 🥅 2023 Goals: Get back to node.js programming
 
 ---
 
