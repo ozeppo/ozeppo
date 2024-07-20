@@ -1,15 +1,14 @@
 ### Hi! I'm Filip
 
 [![Website](https://img.shields.io/website?label=filipchmielecki.pl&style=for-the-badge&url=https%3A%2F%2Ffilipchmielecki.pl)](https://filipchmielecki.pl)
-[![Twitter Follow](https://img.shields.io/twitter/follow/ozeppo?color=1DA1F2&label=Follow%20me%20on%20twitter&logo=twitter&style=for-the-badge)](https://twitter.com/ozeppo)
 
 
 ## Developer and Marketing Strategist
 
 - 🏢 Actual Job: Freelance marketing / Websites development
-- 🌱 Currently learning: PHP
-- 🎶 Passion: Music production.
-- 🥅 2023 Goals: Get back to node.js programming
+- 🌱 Currently learning: Home Assistant plugins development
+- 🎶 Passion: Music production and home automations.
+- 🥅 2024 Goals: Continue development of smartyhome dashboard project
 
 ---
 
