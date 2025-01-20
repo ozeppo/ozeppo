@@ -6,9 +6,8 @@
 ## Developer and Marketing Strategist
 
 - 🏢 Actual Job: Freelance marketing / Websites development
-- 🌱 Currently learning: Home Assistant plugins development
-- 🎶 Passion: Music production and home automations.
-- 🥅 2024 Goals: Continue development of smartyhome dashboard project
+- 🌱 Currently learning: AI implementation in projects
+- 🎶 Passion: Music production, home automation and Lego.
 
 ---
 
